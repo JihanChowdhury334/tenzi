@@ -42,8 +42,17 @@ This repo documents my progress in mastering **React fundamentals**, state manag
 
 ---
 
-## 📸 Screenshot
-![Screenshot of Tenzies Game](./235734b8-a646-4a48-b186-723326e3c357.png)
+## 📸 Screenshots
+
+### Start Screen
+![Start Screen](screenshots/start.png)
+
+### In Progress
+![In Progress](screenshots/in-progress.png)
+
+### Win State
+![Win State](screenshots/win.png)
+
 
 ---
 
